@@ -31,3 +31,12 @@
     transform: rotate(360deg);
   }
 }
+.kmeansDIv{
+  margin: 10px;
+}
+
+.questionDIv{
+  border-bottom: 1px  solid;
+  padding-bottom:15px ;
+
+}
